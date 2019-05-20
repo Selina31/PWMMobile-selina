@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "130125967641",
+    "firebase_url": "https://team-1-b1573.firebaseio.com",
+    "project_id": "team-1-b1573",
+    "storage_bucket": "team-1-b1573.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130125967641:android:2b4c63cc82d6fd12",
+        "android_client_info": {
+          "package_name": "com.example.pwmmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130125967641-32fhq29hiktnngpu5d6p56j1sv1jtp4t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pwmmobile",
+            "certificate_hash": "826eb892cf258febc02f9f0e0e28ebf9e36b9bed"
+          }
+        },
+        {
+          "client_id": "130125967641-8hf0rp3a0nq26jqc59llcl7fi36ifr97.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pwmmobile",
+            "certificate_hash": "b6f572c9ac7294ff2b389f6b7ecc939f4aec3a29"
+          }
+        },
+        {
+          "client_id": "130125967641-cvbpfdd9mck1o5n15qerr51dtmp46kbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqndVD4LghgBel69L5FW3Yy4UdJ4_yyLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130125967641-cvbpfdd9mck1o5n15qerr51dtmp46kbm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

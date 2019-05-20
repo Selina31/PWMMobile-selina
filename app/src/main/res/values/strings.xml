@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PWMMobile</string>
+    <string name="subtitle">Subtitle</string>
+    <string name="title">Title</string>
+    <string name="header">header</string>
+    <string name="subheader">subheader</string>
+    <string name="title_activity_guest_page">GuestPageActivity</string>
+    <string name="title_activity_character">CharacterActivity</string>
+    <string name="title_activity_gossip">GossipActivity</string>
+</resources>
